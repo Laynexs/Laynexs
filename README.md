@@ -34,6 +34,8 @@
 
 <td width="50%" align="center">
 
+<img src="https://cdn.discordapp.com/attachments/917531137583247440/924244844996599808/891b1bd4bd42410388221dcf66a01f36.jpg">
+
   </td>
 </tr>
 </table>
