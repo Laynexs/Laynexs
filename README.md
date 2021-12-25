@@ -5,9 +5,7 @@
 
 ## Ben Laynex .
 
-### 💻 &nbsp;Kendimden Bahsedeyim 
-
-- 💻 &nbsp; Bilişim Öğrencisiyim ve Kendi Halimde JS Kodları Yazıyorum
+- 💻 &nbsp; Kendi Halimde JS Kodları Yazıyorum
 
 
 <br>
